@@ -1,0 +1,727 @@
+{
+  "MARS-001": {
+    "temperatures": {
+      "engine": 82.7,
+      "brake": 56.3,
+      "cabin": 21.8,
+      "status": "high"
+    },
+    "vibrations": {
+      "engine": 0.18,
+      "axle": 1.13,
+      "status": "normal"
+    },
+    "electrical": {
+      "voltage": 739.9,
+      "current": 167.1,
+      "status": "normal"
+    },
+    "doors": {
+      "cycles_today": 241,
+      "response_time": 7.8,
+      "status": "slow"
+    },
+    "hvac": {
+      "power_consumption": 41.5,
+      "air_quality": 91.0,
+      "status": "high_consumption"
+    },
+    "timestamp": "2025-09-16T07:57:02.030602"
+  },
+  "MARS-002": {
+    "temperatures": {
+      "engine": 66.1,
+      "brake": 53.1,
+      "cabin": 24.7,
+      "status": "normal"
+    },
+    "vibrations": {
+      "engine": 2.31,
+      "axle": 1.28,
+      "status": "high"
+    },
+    "electrical": {
+      "voltage": 634.2,
+      "current": 50.5,
+      "status": "abnormal"
+    },
+    "doors": {
+      "cycles_today": 228,
+      "response_time": 4.1,
+      "status": "normal"
+    },
+    "hvac": {
+      "power_consumption": 39.1,
+      "air_quality": 85.1,
+      "status": "normal"
+    },
+    "timestamp": "2025-09-16T07:57:02.030602"
+  },
+  "MARS-003": {
+    "temperatures": {
+      "engine": 80.5,
+      "brake": 60.9,
+      "cabin": 23.4,
+      "status": "high"
+    },
+    "vibrations": {
+      "engine": 0.37,
+      "axle": 0.37,
+      "status": "normal"
+    },
+    "electrical": {
+      "voltage": 771.6,
+      "current": 155.8,
+      "status": "abnormal"
+    },
+    "doors": {
+      "cycles_today": 209,
+      "response_time": 2.8,
+      "status": "normal"
+    },
+    "hvac": {
+      "power_consumption": 37.3,
+      "air_quality": 92.9,
+      "status": "normal"
+    },
+    "timestamp": "2025-09-16T07:57:02.030602"
+  },
+  "MARS-004": {
+    "temperatures": {
+      "engine": 71.7,
+      "brake": 71.0,
+      "cabin": 27.3,
+      "status": "normal"
+    },
+    "vibrations": {
+      "engine": 0.81,
+      "axle": 0.97,
+      "status": "normal"
+    },
+    "electrical": {
+      "voltage": 779.8,
+      "current": 145.7,
+      "status": "abnormal"
+    },
+    "doors": {
+      "cycles_today": 166,
+      "response_time": 6.7,
+      "status": "slow"
+    },
+    "hvac": {
+      "power_consumption": 36.4,
+      "air_quality": 86.2,
+      "status": "normal"
+    },
+    "timestamp": "2025-09-16T07:57:02.030602"
+  },
+  "MARS-005": {
+    "temperatures": {
+      "engine": 64.9,
+      "brake": 46.2,
+      "cabin": 27.2,
+      "status": "normal"
+    },
+    "vibrations": {
+      "engine": 1.7,
+      "axle": 1.08,
+      "status": "high"
+    },
+    "electrical": {
+      "voltage": 684.7,
+      "current": 58.5,
+      "status": "normal"
+    },
+    "doors": {
+      "cycles_today": 101,
+      "response_time": 5.7,
+      "status": "slow"
+    },
+    "hvac": {
+      "power_consumption": 27.7,
+      "air_quality": 97.3,
+      "status": "normal"
+    },
+    "timestamp": "2025-09-16T07:57:02.030602"
+  },
+  "MARS-006": {
+    "temperatures": {
+      "engine": 79.6,
+      "brake": 61.4,
+      "cabin": 23.9,
+      "status": "normal"
+    },
+    "vibrations": {
+      "engine": 1.28,
+      "axle": 0.94,
+      "status": "normal"
+    },
+    "electrical": {
+      "voltage": 702.6,
+      "current": 174.8,
+      "status": "normal"
+    },
+    "doors": {
+      "cycles_today": 65,
+      "response_time": 7.2,
+      "status": "slow"
+    },
+    "hvac": {
+      "power_consumption": 21.6,
+      "air_quality": 100.0,
+      "status": "normal"
+    },
+    "timestamp": "2025-09-16T07:57:02.030602"
+  },
+  "MARS-007": {
+    "temperatures": {
+      "engine": 73.6,
+      "brake": 49.4,
+      "cabin": 20.1,
+      "status": "normal"
+    },
+    "vibrations": {
+      "engine": 0.43,
+      "axle": 0.96,
+      "status": "normal"
+    },
+    "electrical": {
+      "voltage": 624.8,
+      "current": 94.3,
+      "status": "abnormal"
+    },
+    "doors": {
+      "cycles_today": 101,
+      "response_time": 5.9,
+      "status": "slow"
+    },
+    "hvac": {
+      "power_consumption": 19.2,
+      "air_quality": 99.4,
+      "status": "normal"
+    },
+    "timestamp": "2025-09-16T07:57:02.030602"
+  },
+  "MARS-008": {
+    "temperatures": {
+      "engine": 62.5,
+      "brake": 61.3,
+      "cabin": 27.8,
+      "status": "normal"
+    },
+    "vibrations": {
+      "engine": 0.79,
+      "axle": 0.74,
+      "status": "normal"
+    },
+    "electrical": {
+      "voltage": 714.1,
+      "current": 65.9,
+      "status": "normal"
+    },
+    "doors": {
+      "cycles_today": 57,
+      "response_time": 8.0,
+      "status": "slow"
+    },
+    "hvac": {
+      "power_consumption": 30.5,
+      "air_quality": 87.3,
+      "status": "normal"
+    },
+    "timestamp": "2025-09-16T07:57:02.030602"
+  },
+  "MARS-009": {
+    "temperatures": {
+      "engine": 68.2,
+      "brake": 46.8,
+      "cabin": 27.1,
+      "status": "normal"
+    },
+    "vibrations": {
+      "engine": 1.27,
+      "axle": 1.5,
+      "status": "normal"
+    },
+    "electrical": {
+      "voltage": 763.7,
+      "current": 192.3,
+      "status": "abnormal"
+    },
+    "doors": {
+      "cycles_today": 235,
+      "response_time": 3.4,
+      "status": "normal"
+    },
+    "hvac": {
+      "power_consumption": 38.6,
+      "air_quality": 93.1,
+      "status": "normal"
+    },
+    "timestamp": "2025-09-16T07:57:02.030602"
+  },
+  "MARS-010": {
+    "temperatures": {
+      "engine": 70.0,
+      "brake": 66.6,
+      "cabin": 22.2,
+      "status": "normal"
+    },
+    "vibrations": {
+      "engine": 0.49,
+      "axle": 0.9,
+      "status": "normal"
+    },
+    "electrical": {
+      "voltage": 627.0,
+      "current": 91.5,
+      "status": "abnormal"
+    },
+    "doors": {
+      "cycles_today": 72,
+      "response_time": 5.7,
+      "status": "slow"
+    },
+    "hvac": {
+      "power_consumption": 20.1,
+      "air_quality": 94.4,
+      "status": "normal"
+    },
+    "timestamp": "2025-09-16T07:57:02.030602"
+  },
+  "MARS-011": {
+    "temperatures": {
+      "engine": 64.8,
+      "brake": 49.7,
+      "cabin": 24.9,
+      "status": "normal"
+    },
+    "vibrations": {
+      "engine": 2.03,
+      "axle": 0.21,
+      "status": "high"
+    },
+    "electrical": {
+      "voltage": 668.9,
+      "current": 138.8,
+      "status": "normal"
+    },
+    "doors": {
+      "cycles_today": 193,
+      "response_time": 7.0,
+      "status": "slow"
+    },
+    "hvac": {
+      "power_consumption": 42.1,
+      "air_quality": 97.4,
+      "status": "high_consumption"
+    },
+    "timestamp": "2025-09-16T07:57:02.030602"
+  },
+  "MARS-012": {
+    "temperatures": {
+      "engine": 75.2,
+      "brake": 45.4,
+      "cabin": 23.0,
+      "status": "normal"
+    },
+    "vibrations": {
+      "engine": 2.08,
+      "axle": 1.65,
+      "status": "high"
+    },
+    "electrical": {
+      "voltage": 657.9,
+      "current": 102.3,
+      "status": "normal"
+    },
+    "doors": {
+      "cycles_today": 271,
+      "response_time": 7.7,
+      "status": "slow"
+    },
+    "hvac": {
+      "power_consumption": 43.4,
+      "air_quality": 97.7,
+      "status": "high_consumption"
+    },
+    "timestamp": "2025-09-16T07:57:02.030602"
+  },
+  "MARS-013": {
+    "temperatures": {
+      "engine": 64.2,
+      "brake": 49.8,
+      "cabin": 28.0,
+      "status": "normal"
+    },
+    "vibrations": {
+      "engine": 0.61,
+      "axle": 1.29,
+      "status": "normal"
+    },
+    "electrical": {
+      "voltage": 752.5,
+      "current": 113.3,
+      "status": "abnormal"
+    },
+    "doors": {
+      "cycles_today": 276,
+      "response_time": 3.1,
+      "status": "normal"
+    },
+    "hvac": {
+      "power_consumption": 24.1,
+      "air_quality": 89.4,
+      "status": "normal"
+    },
+    "timestamp": "2025-09-16T07:57:02.030602"
+  },
+  "MARS-014": {
+    "temperatures": {
+      "engine": 76.8,
+      "brake": 63.6,
+      "cabin": 21.1,
+      "status": "normal"
+    },
+    "vibrations": {
+      "engine": 0.54,
+      "axle": 1.24,
+      "status": "normal"
+    },
+    "electrical": {
+      "voltage": 748.0,
+      "current": 132.1,
+      "status": "normal"
+    },
+    "doors": {
+      "cycles_today": 172,
+      "response_time": 6.7,
+      "status": "slow"
+    },
+    "hvac": {
+      "power_consumption": 33.6,
+      "air_quality": 87.1,
+      "status": "normal"
+    },
+    "timestamp": "2025-09-16T07:57:02.030602"
+  },
+  "MARS-015": {
+    "temperatures": {
+      "engine": 73.4,
+      "brake": 56.7,
+      "cabin": 19.9,
+      "status": "normal"
+    },
+    "vibrations": {
+      "engine": 2.24,
+      "axle": 0.1,
+      "status": "high"
+    },
+    "electrical": {
+      "voltage": 754.9,
+      "current": 88.2,
+      "status": "abnormal"
+    },
+    "doors": {
+      "cycles_today": 211,
+      "response_time": 3.2,
+      "status": "normal"
+    },
+    "hvac": {
+      "power_consumption": 23.6,
+      "air_quality": 88.1,
+      "status": "normal"
+    },
+    "timestamp": "2025-09-16T07:57:02.030602"
+  },
+  "MARS-016": {
+    "temperatures": {
+      "engine": 77.2,
+      "brake": 49.2,
+      "cabin": 19.6,
+      "status": "normal"
+    },
+    "vibrations": {
+      "engine": 0.72,
+      "axle": 0.91,
+      "status": "normal"
+    },
+    "electrical": {
+      "voltage": 644.1,
+      "current": 90.9,
+      "status": "abnormal"
+    },
+    "doors": {
+      "cycles_today": 281,
+      "response_time": 4.9,
+      "status": "normal"
+    },
+    "hvac": {
+      "power_consumption": 18.4,
+      "air_quality": 89.1,
+      "status": "normal"
+    },
+    "timestamp": "2025-09-16T07:57:02.030602"
+  },
+  "MARS-017": {
+    "temperatures": {
+      "engine": 83.6,
+      "brake": 57.8,
+      "cabin": 22.5,
+      "status": "high"
+    },
+    "vibrations": {
+      "engine": 1.65,
+      "axle": 1.03,
+      "status": "high"
+    },
+    "electrical": {
+      "voltage": 648.0,
+      "current": 109.0,
+      "status": "abnormal"
+    },
+    "doors": {
+      "cycles_today": 195,
+      "response_time": 2.5,
+      "status": "normal"
+    },
+    "hvac": {
+      "power_consumption": 15.7,
+      "air_quality": 93.6,
+      "status": "normal"
+    },
+    "timestamp": "2025-09-16T07:57:02.030602"
+  },
+  "MARS-018": {
+    "temperatures": {
+      "engine": 78.5,
+      "brake": 67.4,
+      "cabin": 25.6,
+      "status": "normal"
+    },
+    "vibrations": {
+      "engine": 1.72,
+      "axle": 0.19,
+      "status": "high"
+    },
+    "electrical": {
+      "voltage": 715.3,
+      "current": 86.9,
+      "status": "normal"
+    },
+    "doors": {
+      "cycles_today": 151,
+      "response_time": 5.4,
+      "status": "slow"
+    },
+    "hvac": {
+      "power_consumption": 38.8,
+      "air_quality": 96.3,
+      "status": "normal"
+    },
+    "timestamp": "2025-09-16T07:57:02.030602"
+  },
+  "MARS-019": {
+    "temperatures": {
+      "engine": 81.3,
+      "brake": 59.7,
+      "cabin": 25.6,
+      "status": "high"
+    },
+    "vibrations": {
+      "engine": 1.85,
+      "axle": 0.54,
+      "status": "high"
+    },
+    "electrical": {
+      "voltage": 665.0,
+      "current": 153.4,
+      "status": "normal"
+    },
+    "doors": {
+      "cycles_today": 183,
+      "response_time": 4.1,
+      "status": "normal"
+    },
+    "hvac": {
+      "power_consumption": 23.5,
+      "air_quality": 92.0,
+      "status": "normal"
+    },
+    "timestamp": "2025-09-16T07:57:02.030602"
+  },
+  "MARS-020": {
+    "temperatures": {
+      "engine": 73.9,
+      "brake": 74.3,
+      "cabin": 19.4,
+      "status": "normal"
+    },
+    "vibrations": {
+      "engine": 1.4,
+      "axle": 1.58,
+      "status": "normal"
+    },
+    "electrical": {
+      "voltage": 737.0,
+      "current": 116.1,
+      "status": "normal"
+    },
+    "doors": {
+      "cycles_today": 236,
+      "response_time": 7.6,
+      "status": "slow"
+    },
+    "hvac": {
+      "power_consumption": 32.0,
+      "air_quality": 85.6,
+      "status": "normal"
+    },
+    "timestamp": "2025-09-16T07:57:02.030602"
+  },
+  "MARS-021": {
+    "temperatures": {
+      "engine": 83.5,
+      "brake": 56.3,
+      "cabin": 26.5,
+      "status": "high"
+    },
+    "vibrations": {
+      "engine": 1.05,
+      "axle": 0.36,
+      "status": "normal"
+    },
+    "electrical": {
+      "voltage": 674.9,
+      "current": 188.5,
+      "status": "normal"
+    },
+    "doors": {
+      "cycles_today": 223,
+      "response_time": 6.8,
+      "status": "slow"
+    },
+    "hvac": {
+      "power_consumption": 44.2,
+      "air_quality": 93.7,
+      "status": "high_consumption"
+    },
+    "timestamp": "2025-09-16T07:57:02.030602"
+  },
+  "MARS-022": {
+    "temperatures": {
+      "engine": 71.8,
+      "brake": 50.4,
+      "cabin": 18.2,
+      "status": "normal"
+    },
+    "vibrations": {
+      "engine": 1.72,
+      "axle": 0.08,
+      "status": "high"
+    },
+    "electrical": {
+      "voltage": 689.9,
+      "current": 198.1,
+      "status": "normal"
+    },
+    "doors": {
+      "cycles_today": 103,
+      "response_time": 2.4,
+      "status": "normal"
+    },
+    "hvac": {
+      "power_consumption": 33.5,
+      "air_quality": 91.4,
+      "status": "normal"
+    },
+    "timestamp": "2025-09-16T07:57:02.030602"
+  },
+  "MARS-023": {
+    "temperatures": {
+      "engine": 64.1,
+      "brake": 67.2,
+      "cabin": 27.4,
+      "status": "normal"
+    },
+    "vibrations": {
+      "engine": 1.78,
+      "axle": 1.2,
+      "status": "high"
+    },
+    "electrical": {
+      "voltage": 772.6,
+      "current": 132.4,
+      "status": "abnormal"
+    },
+    "doors": {
+      "cycles_today": 126,
+      "response_time": 5.7,
+      "status": "slow"
+    },
+    "hvac": {
+      "power_consumption": 38.8,
+      "air_quality": 98.0,
+      "status": "normal"
+    },
+    "timestamp": "2025-09-16T07:57:02.030602"
+  },
+  "MARS-024": {
+    "temperatures": {
+      "engine": 79.6,
+      "brake": 65.3,
+      "cabin": 26.9,
+      "status": "normal"
+    },
+    "vibrations": {
+      "engine": 1.97,
+      "axle": 1.39,
+      "status": "high"
+    },
+    "electrical": {
+      "voltage": 649.9,
+      "current": 67.4,
+      "status": "abnormal"
+    },
+    "doors": {
+      "cycles_today": 165,
+      "response_time": 2.6,
+      "status": "normal"
+    },
+    "hvac": {
+      "power_consumption": 42.8,
+      "air_quality": 90.7,
+      "status": "high_consumption"
+    },
+    "timestamp": "2025-09-16T07:57:02.030602"
+  },
+  "MARS-025": {
+    "temperatures": {
+      "engine": 78.8,
+      "brake": 50.8,
+      "cabin": 22.8,
+      "status": "normal"
+    },
+    "vibrations": {
+      "engine": 0.28,
+      "axle": 1.64,
+      "status": "normal"
+    },
+    "electrical": {
+      "voltage": 720.5,
+      "current": 66.6,
+      "status": "normal"
+    },
+    "doors": {
+      "cycles_today": 194,
+      "response_time": 4.7,
+      "status": "normal"
+    },
+    "hvac": {
+      "power_consumption": 39.6,
+      "air_quality": 85.8,
+      "status": "normal"
+    },
+    "timestamp": "2025-09-16T07:57:02.030602"
+  }
+}

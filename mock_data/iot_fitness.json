@@ -1,0 +1,252 @@
+{
+  "MARS-001": {
+    "fitness_score": 73.62,
+    "engine_score": 72.08,
+    "brake_score": 77.98,
+    "electrical_score": 66.23,
+    "door_score": 88.26,
+    "hvac_score": 89.34,
+    "last_updated": "2025-09-16T07:57:02.030602",
+    "sensor_status": "active"
+  },
+  "MARS-002": {
+    "fitness_score": 92.75,
+    "engine_score": 76.92,
+    "brake_score": 81.86,
+    "electrical_score": 99.22,
+    "door_score": 93.59,
+    "hvac_score": 75.57,
+    "last_updated": "2025-09-16T07:57:02.030602",
+    "sensor_status": "active"
+  },
+  "MARS-003": {
+    "fitness_score": 87.52,
+    "engine_score": 86.16,
+    "brake_score": 78.31,
+    "electrical_score": 98.66,
+    "door_score": 80.9,
+    "hvac_score": 93.47,
+    "last_updated": "2025-09-16T07:57:02.030602",
+    "sensor_status": "active"
+  },
+  "MARS-004": {
+    "fitness_score": 79.98,
+    "engine_score": 82.68,
+    "brake_score": 75.74,
+    "electrical_score": 68.48,
+    "door_score": 95.98,
+    "hvac_score": 77.19,
+    "last_updated": "2025-09-16T07:57:02.030602",
+    "sensor_status": "active"
+  },
+  "MARS-005": {
+    "fitness_score": 80.74,
+    "engine_score": 72.94,
+    "brake_score": 83.33,
+    "electrical_score": 93.26,
+    "door_score": 89.52,
+    "hvac_score": 81.57,
+    "last_updated": "2025-09-16T07:57:02.030602",
+    "sensor_status": "active"
+  },
+  "MARS-006": {
+    "fitness_score": 85.59,
+    "engine_score": 85.95,
+    "brake_score": 90.54,
+    "electrical_score": 76.08,
+    "door_score": 96.79,
+    "hvac_score": 70.43,
+    "last_updated": "2025-09-16T07:57:02.030602",
+    "sensor_status": "active"
+  },
+  "MARS-007": {
+    "fitness_score": 82.92,
+    "engine_score": 83.46,
+    "brake_score": 98.57,
+    "electrical_score": 78.87,
+    "door_score": 89.79,
+    "hvac_score": 85.84,
+    "last_updated": "2025-09-16T07:57:02.030602",
+    "sensor_status": "active"
+  },
+  "MARS-008": {
+    "fitness_score": 91.55,
+    "engine_score": 88.3,
+    "brake_score": 81.23,
+    "electrical_score": 92.82,
+    "door_score": 97.75,
+    "hvac_score": 92.38,
+    "last_updated": "2025-09-16T07:57:02.030602",
+    "sensor_status": "active"
+  },
+  "MARS-009": {
+    "fitness_score": 85.95,
+    "engine_score": 84.56,
+    "brake_score": 81.93,
+    "electrical_score": 87.24,
+    "door_score": 96.95,
+    "hvac_score": 90.57,
+    "last_updated": "2025-09-16T07:57:02.030602",
+    "sensor_status": "active"
+  },
+  "MARS-010": {
+    "fitness_score": 92.55,
+    "engine_score": 94.13,
+    "brake_score": 78.09,
+    "electrical_score": 86.67,
+    "door_score": 95.72,
+    "hvac_score": 88.19,
+    "last_updated": "2025-09-16T07:57:02.030602",
+    "sensor_status": "active"
+  },
+  "MARS-011": {
+    "fitness_score": 88.92,
+    "engine_score": 79.82,
+    "brake_score": 81.93,
+    "electrical_score": 72.12,
+    "door_score": 82.67,
+    "hvac_score": 80.74,
+    "last_updated": "2025-09-16T07:57:02.030602",
+    "sensor_status": "active"
+  },
+  "MARS-012": {
+    "fitness_score": 87.74,
+    "engine_score": 70.87,
+    "brake_score": 88.89,
+    "electrical_score": 96.62,
+    "door_score": 85.12,
+    "hvac_score": 91.17,
+    "last_updated": "2025-09-16T07:57:02.030602",
+    "sensor_status": "active"
+  },
+  "MARS-013": {
+    "fitness_score": 89.94,
+    "engine_score": 70.59,
+    "brake_score": 96.35,
+    "electrical_score": 72.87,
+    "door_score": 89.66,
+    "hvac_score": 74.31,
+    "last_updated": "2025-09-16T07:57:02.030602",
+    "sensor_status": "active"
+  },
+  "MARS-014": {
+    "fitness_score": 89.93,
+    "engine_score": 70.56,
+    "brake_score": 96.6,
+    "electrical_score": 90.54,
+    "door_score": 80.28,
+    "hvac_score": 71.64,
+    "last_updated": "2025-09-16T07:57:02.030602",
+    "sensor_status": "active"
+  },
+  "MARS-015": {
+    "fitness_score": 90.99,
+    "engine_score": 78.96,
+    "brake_score": 98.62,
+    "electrical_score": 84.7,
+    "door_score": 92.69,
+    "hvac_score": 85.94,
+    "last_updated": "2025-09-16T07:57:02.030602",
+    "sensor_status": "active"
+  },
+  "MARS-016": {
+    "fitness_score": 86.83,
+    "engine_score": 83.42,
+    "brake_score": 96.74,
+    "electrical_score": 89.74,
+    "door_score": 93.98,
+    "hvac_score": 92.7,
+    "last_updated": "2025-09-16T07:57:02.030602",
+    "sensor_status": "active"
+  },
+  "MARS-017": {
+    "fitness_score": 88.39,
+    "engine_score": 86.56,
+    "brake_score": 89.6,
+    "electrical_score": 80.31,
+    "door_score": 90.85,
+    "hvac_score": 78.89,
+    "last_updated": "2025-09-16T07:57:02.030602",
+    "sensor_status": "active"
+  },
+  "MARS-018": {
+    "fitness_score": 88.18,
+    "engine_score": 85.58,
+    "brake_score": 87.94,
+    "electrical_score": 80.17,
+    "door_score": 92.27,
+    "hvac_score": 78.42,
+    "last_updated": "2025-09-16T07:57:02.030602",
+    "sensor_status": "active"
+  },
+  "MARS-019": {
+    "fitness_score": 80.78,
+    "engine_score": 74.42,
+    "brake_score": 79.26,
+    "electrical_score": 84.62,
+    "door_score": 86.85,
+    "hvac_score": 92.11,
+    "last_updated": "2025-09-16T07:57:02.030602",
+    "sensor_status": "active"
+  },
+  "MARS-020": {
+    "fitness_score": 93.59,
+    "engine_score": 85.24,
+    "brake_score": 84.11,
+    "electrical_score": 91.31,
+    "door_score": 94.09,
+    "hvac_score": 83.43,
+    "last_updated": "2025-09-16T07:57:02.030602",
+    "sensor_status": "active"
+  },
+  "MARS-021": {
+    "fitness_score": 92.31,
+    "engine_score": 84.96,
+    "brake_score": 81.52,
+    "electrical_score": 88.1,
+    "door_score": 81.52,
+    "hvac_score": 75.16,
+    "last_updated": "2025-09-16T07:57:02.030602",
+    "sensor_status": "active"
+  },
+  "MARS-022": {
+    "fitness_score": 93.06,
+    "engine_score": 89.26,
+    "brake_score": 94.22,
+    "electrical_score": 87.28,
+    "door_score": 99.34,
+    "hvac_score": 82.36,
+    "last_updated": "2025-09-16T07:57:02.030602",
+    "sensor_status": "active"
+  },
+  "MARS-023": {
+    "fitness_score": 90.06,
+    "engine_score": 85.17,
+    "brake_score": 85.04,
+    "electrical_score": 72.45,
+    "door_score": 86.46,
+    "hvac_score": 80.22,
+    "last_updated": "2025-09-16T07:57:02.030602",
+    "sensor_status": "active"
+  },
+  "MARS-024": {
+    "fitness_score": 86.57,
+    "engine_score": 79.92,
+    "brake_score": 97.75,
+    "electrical_score": 97.44,
+    "door_score": 86.0,
+    "hvac_score": 86.97,
+    "last_updated": "2025-09-16T07:57:02.030602",
+    "sensor_status": "active"
+  },
+  "MARS-025": {
+    "fitness_score": 85.9,
+    "engine_score": 97.57,
+    "brake_score": 75.57,
+    "electrical_score": 78.28,
+    "door_score": 88.24,
+    "hvac_score": 72.91,
+    "last_updated": "2025-09-16T07:57:02.030602",
+    "sensor_status": "active"
+  }
+}

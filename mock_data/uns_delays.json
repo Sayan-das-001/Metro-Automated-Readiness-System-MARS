@@ -1,0 +1,275 @@
+{
+  "MARS-001": [],
+  "MARS-002": [
+    {
+      "delay_id": "DEL-97343",
+      "delay_minutes": 12,
+      "reason": "technical_issue",
+      "station": "Palarivattom",
+      "timestamp": "2025-09-15T09:57:02.030602",
+      "severity": "medium",
+      "resolved": true
+    },
+    {
+      "delay_id": "DEL-20008",
+      "delay_minutes": 14,
+      "reason": "technical_issue",
+      "station": "JLN Stadium",
+      "timestamp": "2025-09-15T17:57:02.030602",
+      "severity": "medium",
+      "resolved": false
+    },
+    {
+      "delay_id": "DEL-28728",
+      "delay_minutes": 14,
+      "reason": "track_maintenance",
+      "station": "JLN Stadium",
+      "timestamp": "2025-09-15T12:57:02.030602",
+      "severity": "medium",
+      "resolved": false
+    }
+  ],
+  "MARS-003": [],
+  "MARS-004": [],
+  "MARS-005": [
+    {
+      "delay_id": "DEL-92067",
+      "delay_minutes": 7,
+      "reason": "crowd_control",
+      "station": "JLN Stadium",
+      "timestamp": "2025-09-15T23:57:02.030602",
+      "severity": "medium",
+      "resolved": false
+    }
+  ],
+  "MARS-006": [
+    {
+      "delay_id": "DEL-48766",
+      "delay_minutes": 3,
+      "reason": "technical_issue",
+      "station": "Palarivattom",
+      "timestamp": "2025-09-15T16:57:02.030602",
+      "severity": "low",
+      "resolved": true
+    }
+  ],
+  "MARS-007": [],
+  "MARS-008": [
+    {
+      "delay_id": "DEL-30391",
+      "delay_minutes": 3,
+      "reason": "schedule_adjustment",
+      "station": "Aluva",
+      "timestamp": "2025-09-15T17:57:02.030602",
+      "severity": "low",
+      "resolved": false
+    },
+    {
+      "delay_id": "DEL-44294",
+      "delay_minutes": 4,
+      "reason": "technical_issue",
+      "station": "MG Road",
+      "timestamp": "2025-09-16T05:57:02.030602",
+      "severity": "low",
+      "resolved": false
+    }
+  ],
+  "MARS-009": [
+    {
+      "delay_id": "DEL-22434",
+      "delay_minutes": 15,
+      "reason": "door_fault",
+      "station": "MG Road",
+      "timestamp": "2025-09-15T08:57:02.030602",
+      "severity": "medium",
+      "resolved": true
+    }
+  ],
+  "MARS-010": [],
+  "MARS-011": [],
+  "MARS-012": [],
+  "MARS-013": [
+    {
+      "delay_id": "DEL-78538",
+      "delay_minutes": 11,
+      "reason": "schedule_adjustment",
+      "station": "Kalamassery",
+      "timestamp": "2025-09-15T18:57:02.030602",
+      "severity": "medium",
+      "resolved": false
+    },
+    {
+      "delay_id": "DEL-19545",
+      "delay_minutes": 9,
+      "reason": "schedule_adjustment",
+      "station": "Aluva",
+      "timestamp": "2025-09-16T06:57:02.030602",
+      "severity": "medium",
+      "resolved": false
+    },
+    {
+      "delay_id": "DEL-23219",
+      "delay_minutes": 9,
+      "reason": "door_fault",
+      "station": "Aluva",
+      "timestamp": "2025-09-16T07:57:02.030602",
+      "severity": "medium",
+      "resolved": true
+    }
+  ],
+  "MARS-014": [
+    {
+      "delay_id": "DEL-54275",
+      "delay_minutes": 14,
+      "reason": "crowd_control",
+      "station": "Aluva",
+      "timestamp": "2025-09-16T00:57:02.030602",
+      "severity": "medium",
+      "resolved": true
+    }
+  ],
+  "MARS-015": [
+    {
+      "delay_id": "DEL-78305",
+      "delay_minutes": 7,
+      "reason": "track_maintenance",
+      "station": "Changampuzha Park",
+      "timestamp": "2025-09-15T11:57:02.030602",
+      "severity": "medium",
+      "resolved": false
+    }
+  ],
+  "MARS-016": [
+    {
+      "delay_id": "DEL-93385",
+      "delay_minutes": 9,
+      "reason": "crowd_control",
+      "station": "JLN Stadium",
+      "timestamp": "2025-09-16T01:57:02.030602",
+      "severity": "medium",
+      "resolved": false
+    },
+    {
+      "delay_id": "DEL-87614",
+      "delay_minutes": 11,
+      "reason": "weather",
+      "station": "Edappally",
+      "timestamp": "2025-09-15T18:57:02.030602",
+      "severity": "medium",
+      "resolved": false
+    }
+  ],
+  "MARS-017": [],
+  "MARS-018": [
+    {
+      "delay_id": "DEL-46897",
+      "delay_minutes": 15,
+      "reason": "weather",
+      "station": "Aluva",
+      "timestamp": "2025-09-15T09:57:02.030602",
+      "severity": "medium",
+      "resolved": true
+    },
+    {
+      "delay_id": "DEL-56676",
+      "delay_minutes": 8,
+      "reason": "crowd_control",
+      "station": "Edappally",
+      "timestamp": "2025-09-16T07:57:02.030602",
+      "severity": "medium",
+      "resolved": false
+    },
+    {
+      "delay_id": "DEL-92828",
+      "delay_minutes": 14,
+      "reason": "crowd_control",
+      "station": "Edappally",
+      "timestamp": "2025-09-15T18:57:02.030602",
+      "severity": "medium",
+      "resolved": true
+    }
+  ],
+  "MARS-019": [
+    {
+      "delay_id": "DEL-59554",
+      "delay_minutes": 14,
+      "reason": "crowd_control",
+      "station": "JLN Stadium",
+      "timestamp": "2025-09-16T01:57:02.030602",
+      "severity": "medium",
+      "resolved": false
+    },
+    {
+      "delay_id": "DEL-39133",
+      "delay_minutes": 15,
+      "reason": "track_maintenance",
+      "station": "Kalamassery",
+      "timestamp": "2025-09-16T01:57:02.030602",
+      "severity": "medium",
+      "resolved": true
+    }
+  ],
+  "MARS-020": [
+    {
+      "delay_id": "DEL-88249",
+      "delay_minutes": 13,
+      "reason": "track_maintenance",
+      "station": "MG Road",
+      "timestamp": "2025-09-16T03:57:02.030602",
+      "severity": "medium",
+      "resolved": true
+    },
+    {
+      "delay_id": "DEL-29196",
+      "delay_minutes": 8,
+      "reason": "schedule_adjustment",
+      "station": "Changampuzha Park",
+      "timestamp": "2025-09-15T12:57:02.030602",
+      "severity": "medium",
+      "resolved": false
+    }
+  ],
+  "MARS-021": [
+    {
+      "delay_id": "DEL-21018",
+      "delay_minutes": 3,
+      "reason": "signal_delay",
+      "station": "Aluva",
+      "timestamp": "2025-09-15T07:57:02.030602",
+      "severity": "low",
+      "resolved": true
+    }
+  ],
+  "MARS-022": [],
+  "MARS-023": [
+    {
+      "delay_id": "DEL-35829",
+      "delay_minutes": 15,
+      "reason": "passenger_boarding",
+      "station": "JLN Stadium",
+      "timestamp": "2025-09-16T04:57:02.030602",
+      "severity": "medium",
+      "resolved": false
+    },
+    {
+      "delay_id": "DEL-45645",
+      "delay_minutes": 12,
+      "reason": "weather",
+      "station": "Palarivattom",
+      "timestamp": "2025-09-15T16:57:02.030602",
+      "severity": "medium",
+      "resolved": false
+    },
+    {
+      "delay_id": "DEL-61811",
+      "delay_minutes": 1,
+      "reason": "door_fault",
+      "station": "JLN Stadium",
+      "timestamp": "2025-09-15T08:57:02.030602",
+      "severity": "low",
+      "resolved": true
+    }
+  ],
+  "MARS-024": [],
+  "MARS-025": []
+}

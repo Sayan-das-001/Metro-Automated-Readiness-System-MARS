@@ -1,0 +1,402 @@
+{
+  "MARS-001": {
+    "performance": {
+      "on_time_performance": 93.1,
+      "passenger_load_factor": 86.7,
+      "energy_efficiency": 3.7,
+      "service_reliability": 95.3
+    },
+    "recent_issues": {
+      "delays_count": 0,
+      "total_delay_minutes": 0,
+      "door_faults": 1,
+      "mechanical_issues": 0
+    },
+    "last_updated": "2025-09-16T07:57:02.030602",
+    "data_quality": "good"
+  },
+  "MARS-002": {
+    "performance": {
+      "on_time_performance": 92.8,
+      "passenger_load_factor": 82.1,
+      "energy_efficiency": 4.51,
+      "service_reliability": 97.8
+    },
+    "recent_issues": {
+      "delays_count": 0,
+      "total_delay_minutes": 0,
+      "door_faults": 2,
+      "mechanical_issues": 0
+    },
+    "last_updated": "2025-09-16T07:57:02.030602",
+    "data_quality": "excellent"
+  },
+  "MARS-003": {
+    "performance": {
+      "on_time_performance": 88.3,
+      "passenger_load_factor": 85.6,
+      "energy_efficiency": 3.84,
+      "service_reliability": 98.2
+    },
+    "recent_issues": {
+      "delays_count": 4,
+      "total_delay_minutes": 18,
+      "door_faults": 2,
+      "mechanical_issues": 1
+    },
+    "last_updated": "2025-09-16T07:57:02.030602",
+    "data_quality": "fair"
+  },
+  "MARS-004": {
+    "performance": {
+      "on_time_performance": 89.8,
+      "passenger_load_factor": 72.5,
+      "energy_efficiency": 4.67,
+      "service_reliability": 96.01
+    },
+    "recent_issues": {
+      "delays_count": 4,
+      "total_delay_minutes": 25,
+      "door_faults": 0,
+      "mechanical_issues": 0
+    },
+    "last_updated": "2025-09-16T07:57:02.030602",
+    "data_quality": "excellent"
+  },
+  "MARS-005": {
+    "performance": {
+      "on_time_performance": 97.0,
+      "passenger_load_factor": 63.2,
+      "energy_efficiency": 4.28,
+      "service_reliability": 99.03
+    },
+    "recent_issues": {
+      "delays_count": 3,
+      "total_delay_minutes": 23,
+      "door_faults": 0,
+      "mechanical_issues": 1
+    },
+    "last_updated": "2025-09-16T07:57:02.030602",
+    "data_quality": "excellent"
+  },
+  "MARS-006": {
+    "performance": {
+      "on_time_performance": 87.8,
+      "passenger_load_factor": 63.4,
+      "energy_efficiency": 3.96,
+      "service_reliability": 97.07
+    },
+    "recent_issues": {
+      "delays_count": 4,
+      "total_delay_minutes": 13,
+      "door_faults": 2,
+      "mechanical_issues": 0
+    },
+    "last_updated": "2025-09-16T07:57:02.030602",
+    "data_quality": "good"
+  },
+  "MARS-007": {
+    "performance": {
+      "on_time_performance": 86.4,
+      "passenger_load_factor": 64.8,
+      "energy_efficiency": 4.32,
+      "service_reliability": 98.84
+    },
+    "recent_issues": {
+      "delays_count": 3,
+      "total_delay_minutes": 7,
+      "door_faults": 0,
+      "mechanical_issues": 0
+    },
+    "last_updated": "2025-09-16T07:57:02.030602",
+    "data_quality": "excellent"
+  },
+  "MARS-008": {
+    "performance": {
+      "on_time_performance": 85.0,
+      "passenger_load_factor": 86.1,
+      "energy_efficiency": 4.87,
+      "service_reliability": 97.08
+    },
+    "recent_issues": {
+      "delays_count": 0,
+      "total_delay_minutes": 0,
+      "door_faults": 2,
+      "mechanical_issues": 1
+    },
+    "last_updated": "2025-09-16T07:57:02.030602",
+    "data_quality": "excellent"
+  },
+  "MARS-009": {
+    "performance": {
+      "on_time_performance": 91.2,
+      "passenger_load_factor": 83.4,
+      "energy_efficiency": 4.34,
+      "service_reliability": 96.35
+    },
+    "recent_issues": {
+      "delays_count": 0,
+      "total_delay_minutes": 0,
+      "door_faults": 2,
+      "mechanical_issues": 1
+    },
+    "last_updated": "2025-09-16T07:57:02.030602",
+    "data_quality": "excellent"
+  },
+  "MARS-010": {
+    "performance": {
+      "on_time_performance": 87.0,
+      "passenger_load_factor": 85.1,
+      "energy_efficiency": 4.9,
+      "service_reliability": 99.31
+    },
+    "recent_issues": {
+      "delays_count": 0,
+      "total_delay_minutes": 0,
+      "door_faults": 2,
+      "mechanical_issues": 0
+    },
+    "last_updated": "2025-09-16T07:57:02.030602",
+    "data_quality": "excellent"
+  },
+  "MARS-011": {
+    "performance": {
+      "on_time_performance": 96.0,
+      "passenger_load_factor": 84.1,
+      "energy_efficiency": 4.67,
+      "service_reliability": 96.52
+    },
+    "recent_issues": {
+      "delays_count": 2,
+      "total_delay_minutes": 18,
+      "door_faults": 2,
+      "mechanical_issues": 0
+    },
+    "last_updated": "2025-09-16T07:57:02.030602",
+    "data_quality": "excellent"
+  },
+  "MARS-012": {
+    "performance": {
+      "on_time_performance": 90.7,
+      "passenger_load_factor": 81.7,
+      "energy_efficiency": 4.99,
+      "service_reliability": 96.03
+    },
+    "recent_issues": {
+      "delays_count": 5,
+      "total_delay_minutes": 23,
+      "door_faults": 0,
+      "mechanical_issues": 1
+    },
+    "last_updated": "2025-09-16T07:57:02.030602",
+    "data_quality": "excellent"
+  },
+  "MARS-013": {
+    "performance": {
+      "on_time_performance": 85.3,
+      "passenger_load_factor": 82.1,
+      "energy_efficiency": 4.93,
+      "service_reliability": 95.89
+    },
+    "recent_issues": {
+      "delays_count": 4,
+      "total_delay_minutes": 23,
+      "door_faults": 2,
+      "mechanical_issues": 0
+    },
+    "last_updated": "2025-09-16T07:57:02.030602",
+    "data_quality": "excellent"
+  },
+  "MARS-014": {
+    "performance": {
+      "on_time_performance": 94.3,
+      "passenger_load_factor": 73.7,
+      "energy_efficiency": 5.04,
+      "service_reliability": 99.25
+    },
+    "recent_issues": {
+      "delays_count": 3,
+      "total_delay_minutes": 25,
+      "door_faults": 1,
+      "mechanical_issues": 0
+    },
+    "last_updated": "2025-09-16T07:57:02.030602",
+    "data_quality": "fair"
+  },
+  "MARS-015": {
+    "performance": {
+      "on_time_performance": 86.7,
+      "passenger_load_factor": 62.0,
+      "energy_efficiency": 4.68,
+      "service_reliability": 97.79
+    },
+    "recent_issues": {
+      "delays_count": 1,
+      "total_delay_minutes": 6,
+      "door_faults": 2,
+      "mechanical_issues": 1
+    },
+    "last_updated": "2025-09-16T07:57:02.030602",
+    "data_quality": "good"
+  },
+  "MARS-016": {
+    "performance": {
+      "on_time_performance": 96.0,
+      "passenger_load_factor": 80.6,
+      "energy_efficiency": 3.97,
+      "service_reliability": 97.06
+    },
+    "recent_issues": {
+      "delays_count": 0,
+      "total_delay_minutes": 0,
+      "door_faults": 2,
+      "mechanical_issues": 1
+    },
+    "last_updated": "2025-09-16T07:57:02.030602",
+    "data_quality": "fair"
+  },
+  "MARS-017": {
+    "performance": {
+      "on_time_performance": 96.2,
+      "passenger_load_factor": 79.7,
+      "energy_efficiency": 4.32,
+      "service_reliability": 99.13
+    },
+    "recent_issues": {
+      "delays_count": 2,
+      "total_delay_minutes": 14,
+      "door_faults": 2,
+      "mechanical_issues": 0
+    },
+    "last_updated": "2025-09-16T07:57:02.030602",
+    "data_quality": "excellent"
+  },
+  "MARS-018": {
+    "performance": {
+      "on_time_performance": 89.9,
+      "passenger_load_factor": 89.0,
+      "energy_efficiency": 3.58,
+      "service_reliability": 99.36
+    },
+    "recent_issues": {
+      "delays_count": 4,
+      "total_delay_minutes": 35,
+      "door_faults": 2,
+      "mechanical_issues": 1
+    },
+    "last_updated": "2025-09-16T07:57:02.030602",
+    "data_quality": "fair"
+  },
+  "MARS-019": {
+    "performance": {
+      "on_time_performance": 85.2,
+      "passenger_load_factor": 73.1,
+      "energy_efficiency": 3.8,
+      "service_reliability": 99.0
+    },
+    "recent_issues": {
+      "delays_count": 2,
+      "total_delay_minutes": 9,
+      "door_faults": 0,
+      "mechanical_issues": 0
+    },
+    "last_updated": "2025-09-16T07:57:02.030602",
+    "data_quality": "excellent"
+  },
+  "MARS-020": {
+    "performance": {
+      "on_time_performance": 86.1,
+      "passenger_load_factor": 87.5,
+      "energy_efficiency": 3.83,
+      "service_reliability": 95.23
+    },
+    "recent_issues": {
+      "delays_count": 4,
+      "total_delay_minutes": 18,
+      "door_faults": 1,
+      "mechanical_issues": 0
+    },
+    "last_updated": "2025-09-16T07:57:02.030602",
+    "data_quality": "fair"
+  },
+  "MARS-021": {
+    "performance": {
+      "on_time_performance": 94.6,
+      "passenger_load_factor": 87.7,
+      "energy_efficiency": 4.78,
+      "service_reliability": 95.86
+    },
+    "recent_issues": {
+      "delays_count": 0,
+      "total_delay_minutes": 0,
+      "door_faults": 0,
+      "mechanical_issues": 1
+    },
+    "last_updated": "2025-09-16T07:57:02.030602",
+    "data_quality": "fair"
+  },
+  "MARS-022": {
+    "performance": {
+      "on_time_performance": 95.5,
+      "passenger_load_factor": 60.2,
+      "energy_efficiency": 5.04,
+      "service_reliability": 98.14
+    },
+    "recent_issues": {
+      "delays_count": 0,
+      "total_delay_minutes": 0,
+      "door_faults": 1,
+      "mechanical_issues": 1
+    },
+    "last_updated": "2025-09-16T07:57:02.030602",
+    "data_quality": "excellent"
+  },
+  "MARS-023": {
+    "performance": {
+      "on_time_performance": 93.1,
+      "passenger_load_factor": 68.1,
+      "energy_efficiency": 4.36,
+      "service_reliability": 95.81
+    },
+    "recent_issues": {
+      "delays_count": 3,
+      "total_delay_minutes": 13,
+      "door_faults": 2,
+      "mechanical_issues": 1
+    },
+    "last_updated": "2025-09-16T07:57:02.030602",
+    "data_quality": "excellent"
+  },
+  "MARS-024": {
+    "performance": {
+      "on_time_performance": 88.6,
+      "passenger_load_factor": 81.6,
+      "energy_efficiency": 4.1,
+      "service_reliability": 98.72
+    },
+    "recent_issues": {
+      "delays_count": 4,
+      "total_delay_minutes": 20,
+      "door_faults": 1,
+      "mechanical_issues": 1
+    },
+    "last_updated": "2025-09-16T07:57:02.030602",
+    "data_quality": "fair"
+  },
+  "MARS-025": {
+    "performance": {
+      "on_time_performance": 96.9,
+      "passenger_load_factor": 74.3,
+      "energy_efficiency": 4.62,
+      "service_reliability": 99.14
+    },
+    "recent_issues": {
+      "delays_count": 0,
+      "total_delay_minutes": 0,
+      "door_faults": 1,
+      "mechanical_issues": 0
+    },
+    "last_updated": "2025-09-16T07:57:02.030602",
+    "data_quality": "fair"
+  }
+}

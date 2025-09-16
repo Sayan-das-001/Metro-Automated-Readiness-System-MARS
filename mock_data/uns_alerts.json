@@ -1,0 +1,544 @@
+{
+  "MARS-001": [],
+  "MARS-002": [
+    {
+      "alert_id": "UNS-405041",
+      "type": "delay",
+      "severity": "low",
+      "message": "Minor schedule adjustment - 3 minutes",
+      "timestamp": "2025-09-15T08:57:02.030602",
+      "acknowledged": false,
+      "resolved": true,
+      "location": "route",
+      "technician_assigned": false
+    },
+    {
+      "alert_id": "UNS-897944",
+      "type": "electrical",
+      "severity": "medium",
+      "message": "Electrical system anomaly detected",
+      "timestamp": "2025-09-15T08:57:02.030602",
+      "acknowledged": true,
+      "resolved": false,
+      "location": "route",
+      "technician_assigned": true
+    }
+  ],
+  "MARS-003": [
+    {
+      "alert_id": "UNS-544856",
+      "type": "mechanical",
+      "severity": "high",
+      "message": "Critical mechanical fault detected",
+      "timestamp": "2025-09-15T14:57:02.030602",
+      "acknowledged": false,
+      "resolved": false,
+      "location": "route",
+      "technician_assigned": true
+    },
+    {
+      "alert_id": "UNS-372077",
+      "type": "delay",
+      "severity": "medium",
+      "message": "Service delay detected - 4 minutes",
+      "timestamp": "2025-09-14T20:57:02.030602",
+      "acknowledged": false,
+      "resolved": true,
+      "location": "route",
+      "technician_assigned": false
+    },
+    {
+      "alert_id": "UNS-191914",
+      "type": "delay",
+      "severity": "low",
+      "message": "Minor schedule adjustment - 2 minutes",
+      "timestamp": "2025-09-15T12:57:02.030602",
+      "acknowledged": false,
+      "resolved": false,
+      "location": "route",
+      "technician_assigned": true
+    },
+    {
+      "alert_id": "UNS-357520",
+      "type": "door_fault",
+      "severity": "medium",
+      "message": "Door operation fault on car 2",
+      "timestamp": "2025-09-14T08:57:02.030602",
+      "acknowledged": false,
+      "resolved": false,
+      "location": "depot",
+      "technician_assigned": true
+    },
+    {
+      "alert_id": "UNS-478777",
+      "type": "electrical",
+      "severity": "medium",
+      "message": "Electrical system anomaly detected",
+      "timestamp": "2025-09-14T12:57:02.030602",
+      "acknowledged": false,
+      "resolved": false,
+      "location": "station",
+      "technician_assigned": false
+    }
+  ],
+  "MARS-004": [
+    {
+      "alert_id": "UNS-596737",
+      "type": "delay",
+      "severity": "medium",
+      "message": "Service delay detected - 10 minutes",
+      "timestamp": "2025-09-16T05:57:02.030602",
+      "acknowledged": true,
+      "resolved": true,
+      "location": "route",
+      "technician_assigned": false
+    },
+    {
+      "alert_id": "UNS-340976",
+      "type": "electrical",
+      "severity": "high",
+      "message": "Major electrical system fault",
+      "timestamp": "2025-09-16T00:57:02.030602",
+      "acknowledged": false,
+      "resolved": true,
+      "location": "route",
+      "technician_assigned": false
+    }
+  ],
+  "MARS-005": [
+    {
+      "alert_id": "UNS-152648",
+      "type": "electrical",
+      "severity": "high",
+      "message": "Major electrical system fault",
+      "timestamp": "2025-09-15T23:57:02.030602",
+      "acknowledged": false,
+      "resolved": false,
+      "location": "route",
+      "technician_assigned": false
+    },
+    {
+      "alert_id": "UNS-383547",
+      "type": "mechanical",
+      "severity": "high",
+      "message": "Critical mechanical fault detected",
+      "timestamp": "2025-09-15T20:57:02.030602",
+      "acknowledged": false,
+      "resolved": true,
+      "location": "depot",
+      "technician_assigned": false
+    }
+  ],
+  "MARS-006": [
+    {
+      "alert_id": "UNS-920696",
+      "type": "security",
+      "severity": "high",
+      "message": "Security system alert triggered",
+      "timestamp": "2025-09-15T20:57:02.030602",
+      "acknowledged": false,
+      "resolved": true,
+      "location": "station",
+      "technician_assigned": false
+    },
+    {
+      "alert_id": "UNS-528309",
+      "type": "delay",
+      "severity": "low",
+      "message": "Minor schedule adjustment - 2 minutes",
+      "timestamp": "2025-09-14T17:57:02.030602",
+      "acknowledged": true,
+      "resolved": false,
+      "location": "depot",
+      "technician_assigned": false
+    },
+    {
+      "alert_id": "UNS-273677",
+      "type": "delay",
+      "severity": "low",
+      "message": "Minor schedule adjustment - 1 minutes",
+      "timestamp": "2025-09-14T15:57:02.030602",
+      "acknowledged": true,
+      "resolved": false,
+      "location": "depot",
+      "technician_assigned": false
+    }
+  ],
+  "MARS-007": [
+    {
+      "alert_id": "UNS-542631",
+      "type": "delay",
+      "severity": "low",
+      "message": "Minor schedule adjustment - 3 minutes",
+      "timestamp": "2025-09-14T14:57:02.030602",
+      "acknowledged": false,
+      "resolved": true,
+      "location": "station",
+      "technician_assigned": true
+    },
+    {
+      "alert_id": "UNS-530364",
+      "type": "delay",
+      "severity": "medium",
+      "message": "Service delay detected - 5 minutes",
+      "timestamp": "2025-09-15T04:57:02.030602",
+      "acknowledged": false,
+      "resolved": false,
+      "location": "route",
+      "technician_assigned": false
+    },
+    {
+      "alert_id": "UNS-583703",
+      "type": "door_fault",
+      "severity": "low",
+      "message": "Door sensor calibration needed",
+      "timestamp": "2025-09-15T13:57:02.030602",
+      "acknowledged": true,
+      "resolved": true,
+      "location": "route",
+      "technician_assigned": true
+    }
+  ],
+  "MARS-008": [
+    {
+      "alert_id": "UNS-815436",
+      "type": "electrical",
+      "severity": "high",
+      "message": "Major electrical system fault",
+      "timestamp": "2025-09-14T18:57:02.030602",
+      "acknowledged": true,
+      "resolved": false,
+      "location": "depot",
+      "technician_assigned": false
+    }
+  ],
+  "MARS-009": [
+    {
+      "alert_id": "UNS-980137",
+      "type": "mechanical",
+      "severity": "medium",
+      "message": "Mechanical system requires attention",
+      "timestamp": "2025-09-14T13:57:02.030602",
+      "acknowledged": false,
+      "resolved": false,
+      "location": "depot",
+      "technician_assigned": false
+    }
+  ],
+  "MARS-010": [],
+  "MARS-011": [
+    {
+      "alert_id": "UNS-530863",
+      "type": "electrical",
+      "severity": "medium",
+      "message": "Electrical system anomaly detected",
+      "timestamp": "2025-09-15T11:57:02.030602",
+      "acknowledged": false,
+      "resolved": false,
+      "location": "route",
+      "technician_assigned": true
+    },
+    {
+      "alert_id": "UNS-167901",
+      "type": "mechanical",
+      "severity": "high",
+      "message": "Critical mechanical fault detected",
+      "timestamp": "2025-09-15T19:57:02.030602",
+      "acknowledged": true,
+      "resolved": true,
+      "location": "route",
+      "technician_assigned": false
+    },
+    {
+      "alert_id": "UNS-711063",
+      "type": "communication",
+      "severity": "medium",
+      "message": "Communication system intermittent",
+      "timestamp": "2025-09-14T15:57:02.030602",
+      "acknowledged": true,
+      "resolved": true,
+      "location": "station",
+      "technician_assigned": true
+    }
+  ],
+  "MARS-012": [
+    {
+      "alert_id": "UNS-863559",
+      "type": "delay",
+      "severity": "low",
+      "message": "Minor schedule adjustment - 2 minutes",
+      "timestamp": "2025-09-15T15:57:02.030602",
+      "acknowledged": false,
+      "resolved": false,
+      "location": "station",
+      "technician_assigned": false
+    },
+    {
+      "alert_id": "UNS-379493",
+      "type": "delay",
+      "severity": "low",
+      "message": "Minor schedule adjustment - 1 minutes",
+      "timestamp": "2025-09-15T15:57:02.030602",
+      "acknowledged": false,
+      "resolved": false,
+      "location": "station",
+      "technician_assigned": false
+    },
+    {
+      "alert_id": "UNS-942518",
+      "type": "delay",
+      "severity": "low",
+      "message": "Minor schedule adjustment - 2 minutes",
+      "timestamp": "2025-09-15T13:57:02.030602",
+      "acknowledged": false,
+      "resolved": true,
+      "location": "station",
+      "technician_assigned": true
+    }
+  ],
+  "MARS-013": [
+    {
+      "alert_id": "UNS-961252",
+      "type": "delay",
+      "severity": "low",
+      "message": "Minor schedule adjustment - 1 minutes",
+      "timestamp": "2025-09-15T16:57:02.030602",
+      "acknowledged": true,
+      "resolved": false,
+      "location": "station",
+      "technician_assigned": true
+    }
+  ],
+  "MARS-014": [
+    {
+      "alert_id": "UNS-378917",
+      "type": "delay",
+      "severity": "low",
+      "message": "Minor schedule adjustment - 2 minutes",
+      "timestamp": "2025-09-14T21:57:02.030602",
+      "acknowledged": false,
+      "resolved": false,
+      "location": "station",
+      "technician_assigned": true
+    },
+    {
+      "alert_id": "UNS-610418",
+      "type": "delay",
+      "severity": "medium",
+      "message": "Service delay detected - 10 minutes",
+      "timestamp": "2025-09-15T12:57:02.030602",
+      "acknowledged": true,
+      "resolved": false,
+      "location": "depot",
+      "technician_assigned": true
+    }
+  ],
+  "MARS-015": [
+    {
+      "alert_id": "UNS-849415",
+      "type": "mechanical",
+      "severity": "medium",
+      "message": "Mechanical system requires attention",
+      "timestamp": "2025-09-15T23:57:02.030602",
+      "acknowledged": true,
+      "resolved": false,
+      "location": "depot",
+      "technician_assigned": false
+    },
+    {
+      "alert_id": "UNS-394789",
+      "type": "electrical",
+      "severity": "medium",
+      "message": "Electrical system anomaly detected",
+      "timestamp": "2025-09-14T16:57:02.030602",
+      "acknowledged": true,
+      "resolved": false,
+      "location": "depot",
+      "technician_assigned": false
+    }
+  ],
+  "MARS-016": [
+    {
+      "alert_id": "UNS-866849",
+      "type": "hvac_fault",
+      "severity": "medium",
+      "message": "HVAC system malfunction detected",
+      "timestamp": "2025-09-15T15:57:02.030602",
+      "acknowledged": false,
+      "resolved": true,
+      "location": "depot",
+      "technician_assigned": false
+    },
+    {
+      "alert_id": "UNS-520905",
+      "type": "mechanical",
+      "severity": "medium",
+      "message": "Mechanical system requires attention",
+      "timestamp": "2025-09-14T12:57:02.030602",
+      "acknowledged": true,
+      "resolved": false,
+      "location": "route",
+      "technician_assigned": false
+    }
+  ],
+  "MARS-017": [
+    {
+      "alert_id": "UNS-222275",
+      "type": "mechanical",
+      "severity": "high",
+      "message": "Critical mechanical fault detected",
+      "timestamp": "2025-09-14T13:57:02.030602",
+      "acknowledged": true,
+      "resolved": false,
+      "location": "depot",
+      "technician_assigned": false
+    }
+  ],
+  "MARS-018": [
+    {
+      "alert_id": "UNS-755414",
+      "type": "delay",
+      "severity": "medium",
+      "message": "Service delay detected - 8 minutes",
+      "timestamp": "2025-09-14T11:57:02.030602",
+      "acknowledged": false,
+      "resolved": true,
+      "location": "route",
+      "technician_assigned": true
+    }
+  ],
+  "MARS-019": [],
+  "MARS-020": [
+    {
+      "alert_id": "UNS-832516",
+      "type": "communication",
+      "severity": "low",
+      "message": "Communication signal weak",
+      "timestamp": "2025-09-14T15:57:02.030602",
+      "acknowledged": false,
+      "resolved": true,
+      "location": "route",
+      "technician_assigned": true
+    }
+  ],
+  "MARS-021": [
+    {
+      "alert_id": "UNS-169298",
+      "type": "delay",
+      "severity": "medium",
+      "message": "Service delay detected - 5 minutes",
+      "timestamp": "2025-09-16T07:57:02.030602",
+      "acknowledged": true,
+      "resolved": true,
+      "location": "station",
+      "technician_assigned": true
+    },
+    {
+      "alert_id": "UNS-712925",
+      "type": "mechanical",
+      "severity": "high",
+      "message": "Critical mechanical fault detected",
+      "timestamp": "2025-09-16T05:57:02.030602",
+      "acknowledged": false,
+      "resolved": true,
+      "location": "depot",
+      "technician_assigned": false
+    },
+    {
+      "alert_id": "UNS-458249",
+      "type": "door_fault",
+      "severity": "medium",
+      "message": "Door operation fault on car 2",
+      "timestamp": "2025-09-16T05:57:02.030602",
+      "acknowledged": true,
+      "resolved": true,
+      "location": "station",
+      "technician_assigned": true
+    }
+  ],
+  "MARS-022": [
+    {
+      "alert_id": "UNS-761551",
+      "type": "mechanical",
+      "severity": "medium",
+      "message": "Mechanical system requires attention",
+      "timestamp": "2025-09-15T08:57:02.030602",
+      "acknowledged": true,
+      "resolved": false,
+      "location": "depot",
+      "technician_assigned": true
+    },
+    {
+      "alert_id": "UNS-381291",
+      "type": "hvac_fault",
+      "severity": "medium",
+      "message": "HVAC system malfunction detected",
+      "timestamp": "2025-09-14T18:57:02.030602",
+      "acknowledged": true,
+      "resolved": false,
+      "location": "route",
+      "technician_assigned": true
+    }
+  ],
+  "MARS-023": [
+    {
+      "alert_id": "UNS-255521",
+      "type": "door_fault",
+      "severity": "low",
+      "message": "Door sensor calibration needed",
+      "timestamp": "2025-09-15T13:57:02.030602",
+      "acknowledged": true,
+      "resolved": false,
+      "location": "route",
+      "technician_assigned": true
+    },
+    {
+      "alert_id": "UNS-818069",
+      "type": "delay",
+      "severity": "low",
+      "message": "Minor schedule adjustment - 3 minutes",
+      "timestamp": "2025-09-15T02:57:02.030602",
+      "acknowledged": false,
+      "resolved": false,
+      "location": "station",
+      "technician_assigned": false
+    }
+  ],
+  "MARS-024": [
+    {
+      "alert_id": "UNS-883348",
+      "type": "electrical",
+      "severity": "medium",
+      "message": "Electrical system anomaly detected",
+      "timestamp": "2025-09-15T10:57:02.030602",
+      "acknowledged": true,
+      "resolved": true,
+      "location": "depot",
+      "technician_assigned": true
+    },
+    {
+      "alert_id": "UNS-585215",
+      "type": "electrical",
+      "severity": "high",
+      "message": "Major electrical system fault",
+      "timestamp": "2025-09-14T11:57:02.030602",
+      "acknowledged": true,
+      "resolved": true,
+      "location": "station",
+      "technician_assigned": true
+    }
+  ],
+  "MARS-025": [
+    {
+      "alert_id": "UNS-819022",
+      "type": "electrical",
+      "severity": "medium",
+      "message": "Electrical system anomaly detected",
+      "timestamp": "2025-09-15T16:57:02.030602",
+      "acknowledged": false,
+      "resolved": false,
+      "location": "depot",
+      "technician_assigned": true
+    }
+  ]
+}
